@@ -1,6 +1,6 @@
 import { LanguageModel } from "../models";
 
-export const BASE_URL = "http://publnews.polydesign3d.com/";
+export const BASE_URL = "https://stealth-backend.herokuapp.com/";
 export const API_URL = BASE_URL + "api/v1/";
 export const IMAGES_URL = BASE_URL + "uploadfiles/images/";
 
